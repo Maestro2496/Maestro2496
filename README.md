@@ -22,7 +22,7 @@ Working on open source projects and exploring distributed systems.
 
 ---
 
-Open to interesting opportunities. Reach out via [LinkedIn]() or [email]().## 🚀 About Me
+Open to interesting opportunities. Reach out via [LinkedIn](https://www.linkedin.com/in/eddy-agossou-345034244/) or [email](mailto:medetoneddy@gmail.com).## 🚀 About Me
 
 I'm a **passionate software engineer** specializing in building robust full-stack applications. With expertise spanning from modern frontend frameworks to high-performance backend systems, I transform complex business requirements into elegant, scalable solutions.
 
