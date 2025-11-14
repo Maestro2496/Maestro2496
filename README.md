@@ -1,18 +1,28 @@
-<div align="center">
-  
-# 👨‍💻 Eddy | Full-Stack Software Engineer
+# Eddy
 
-### Building scalable, high-performance applications with modern tech stacks
+Software Engineer building scalable systems and solving complex problems.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)]()
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+## Technical Stack
 
-</div>
+**Frontend:** TypeScript, Next.js, React  
+**Backend:** Python (Django, FastAPI), Rust  
+**Data:** PostgreSQL, SQL  
+**Cloud & Infrastructure:** AWS
+
+## Focus Areas
+
+- Full-stack web applications
+- API design and microservices architecture
+- Cloud-native solutions
+- Performance optimization and scalability
+
+## Currently
+
+Working on open source projects and exploring distributed systems.
 
 ---
 
-## 🚀 About Me
+Open to interesting opportunities. Reach out via [LinkedIn]() or [email]().## 🚀 About Me
 
 I'm a **passionate software engineer** specializing in building robust full-stack applications. With expertise spanning from modern frontend frameworks to high-performance backend systems, I transform complex business requirements into elegant, scalable solutions.
 
